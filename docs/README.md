@@ -22,7 +22,7 @@ OpenTelemetry 提供其所有组件的实现以及参考架构。 其（设计�
  什么是 OpenTelemetry，它提供什么以及它支持什么？
 
 ## [Collector](https://opentelemetry.io/docs/collector/)
- 接收、处理和导出遥测数据的供应商无感知方式。
+ （本节介绍了）与供应商无关的，接收、处理和导出遥测数据的方式。
 
 ## [C++](https://opentelemetry.io/docs/cpp/)
  OpenTelemetry C++ 实现.
