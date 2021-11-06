@@ -5,7 +5,7 @@
 
 ## [What is OpenTelemetry?](https://github.com/jordy1024/opentelemetry/blob/main/Concepts/What%20is%20OpenTelemetry.md)
 
-## [Components](https://opentelemetry.io/docs/concepts/components/)
+## [Components](https://github.com/jordy1024/opentelemetry/blob/main/Concepts/Components.md)
 
 ## [Data sources](https://opentelemetry.io/docs/concepts/data-sources/)
 
