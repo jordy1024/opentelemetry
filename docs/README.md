@@ -19,49 +19,49 @@ OpenTelemetry 提供其所有组件的实现以及参考架构。 其（设计�
 
 
 ## [Concepts](https://opentelemetry.io/docs/concepts/)
-What is OpenTelemetry, what does it provide and what does it support?
+ 什么是 OpenTelemetry，它提供什么以及它支持什么？
 
 ## [Collector](https://opentelemetry.io/docs/collector/)
-Collector logo Vendor-agnostic way to receive, process and export telemetry data.
+ 接收、处理和导出遥测数据的供应商无感知方式。
 
 ## [C++](https://opentelemetry.io/docs/cpp/)
-A language-specific implementation of OpenTelemetry in C++.
+ OpenTelemetry C++ 实现.
 
 ## [.NET](https://opentelemetry.io/docs/net/)
-NET logo A language-specific implementation of OpenTelemetry in .NET.
+ OpenTelemetry .NET 实现. 
 
 ## [Erlang/Elixir](https://opentelemetry.io/docs/erlang/)
- A language-specific implementation of OpenTelemetry in Erlang/Elixir.
+ OpenTelemetry Erlang/Elixir 实现. 
 
 ## [Go](https://opentelemetry.io/docs/go/)
- A language-specific implementation of OpenTelemetry in Go.
+ OpenTelemetry Go 实现.
 
 ## [Java](https://opentelemetry.io/docs/java/)
- A language-specific implementation of OpenTelemetry in Java.
+ OpenTelemetry Java 实现.
 
 ## [JavaScript](https://opentelemetry.io/docs/js/)
-JS logo A language-specific implementation of OpenTelemetry in JavaScript (for Node.JS & the browser).
+OpenTelemetry JavaScript (for Node.JS & the browser) 实现.
 
 ## [PHP](https://opentelemetry.io/docs/php/)
-A language-specific implementation of OpenTelemetry in PHP.
+OpenTelemetry PHP 实现.
 
 ## [Python](https://opentelemetry.io/docs/python/)
- A language-specific implementation of OpenTelemetry in Python.
+ OpenTelemetry Python 实现.
 
 ## [Ruby](https://opentelemetry.io/docs/ruby/)
- A language-specific implementation of OpenTelemetry in Ruby.
+ OpenTelemetry Ruby 实现.
 
 ## [Rust](https://opentelemetry.io/docs/rust/)
-A language-specific implementation of OpenTelemetry in Rust.
+OpenTelemetry Rust 实现.
 
 ## [Swift](https://opentelemetry.io/docs/swift/)
-A language-specific implementation of OpenTelemetry in Swift.
+OpenTelemetry Swift 实现.
 
 ## [Workshop](https://opentelemetry.io/docs/workshop/)
-Resources to aid in running an OpenTelemetry workshop
+OpenTelemetry 生态运转的一些依赖资源
 
 ## [Contribution Guidelines](https://opentelemetry.io/docs/contribution-guidelines/)
-How to contribute to the OpenTelemetry documentation
+如何 贡献 OpenTelemetry 文档
 
 
 
