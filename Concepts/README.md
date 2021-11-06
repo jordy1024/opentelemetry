@@ -1,4 +1,5 @@
-## Concepts
+## 概念
+
 什么是 OpenTelemetry，它提供什么以及它支持什么？
 概念部分可帮助您了解有关 OpenTelemetry 项目的数据源和组件的更多信息，以便您更深入地了解 OpenTelemetry 的工作原理。
 
