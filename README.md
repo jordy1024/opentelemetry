@@ -6,6 +6,7 @@
 
 ### [Concepts](https://github.com/jordy1024/opentelemetry/tree/main/Concepts) 
 
+### [Collector](https://github.com/jordy1024/opentelemetry/tree/main/Collector)
 
 
 ### 附录
