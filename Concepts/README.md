@@ -3,7 +3,7 @@
 概念部分可帮助您了解有关 OpenTelemetry 项目的数据源和组件的更多信息，以便您更深入地了解 OpenTelemetry 的工作原理。
 
 
-## [What is OpenTelemetry?](https://opentelemetry.io/docs/concepts/what-is-opentelemetry/)
+## [What is OpenTelemetry?](https://github.com/jordy1024/opentelemetry/blob/main/Concepts/What%20is%20OpenTelemetry.md)
 
 ## [Components](https://opentelemetry.io/docs/concepts/components/)
 
