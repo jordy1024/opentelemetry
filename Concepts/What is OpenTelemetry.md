@@ -25,7 +25,8 @@ OpenTelemetry 为您提供：
 - 开放标准语义规范，以确保的数据收集与供应商无关.
 - 能够并行支持多种上下文传播格式，以支持因标准发展或变化而必须的迁移。
 - 无论您（的项目）处于可观测性（对接）的哪个阶段，都可以继续向前。 
-  可以通过支持OpenTelemetry各种开源和商业协议、格式和上下文传播机制 或者 将 OpenTracing 和 OpenCensus 项目 进一步融合，（这样以来）就很容易采用 OpenTelemetry。
+  可以通过支持OpenTelemetry各种开源和商业协议、格式和上下文传播机制 
+  或者 将 OpenTracing 和 OpenCensus  进一步融合，（这样以来）就很容易采用 OpenTelemetry。
 
 ### What OpenTelemetry is not
 OpenTelemetry 不是像 Jaeger 或 Prometheus 那样的可观察性后端。 
