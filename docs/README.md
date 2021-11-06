@@ -15,7 +15,7 @@ OpenTelemetry 提供其所有组件的实现以及参考架构。 其（设计�
 对于棕地环境，Collector 支持许多流行的开源线格式，包括 Jaeger、Prometheus 和 Fluent Bit。 
 可以将收集器作为连接 希望利用 OpenTelemetry 或最终转向 OpenTelemetry 支持的开放标准的最终用户的桥梁。
 
-> 有关特定于语言的仪表或收集器的文档指南，请点击导航栏中的链接。
+> 有关特定于语言的检测或收集器的文档指南，请点击导航栏中的链接。
 
 
 ## [Concepts](https://opentelemetry.io/docs/concepts/)
