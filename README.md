@@ -3,4 +3,4 @@
 
 ## [docs](https://github.com/jordy1024/opentelemetry/tree/main/docs)
 
-### [Concepts]() 
+### [Concepts](https://github.com/jordy1024/opentelemetry/tree/main/Concepts) 
