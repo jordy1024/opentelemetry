@@ -20,7 +20,7 @@ Language independent interface types. Defined per data source for instrumentatio
 
 ### 收集器
 
-OpenTelemetry Collector 在 接收、处理和导出遥测数据等方面 提供了与供应商无关的实现。 
+OpenTelemetry Collector 在 接收、处理和导出遥测数据等方面 提供了与供应商无关的实现。   
 （在 OpenTelemetry 出现之前），为了支持将开源可观测性数据格式发送到不同的开源/商业后端，（往往）需要运行，操作和维护各种Agent或collectors。
 （而 OpenTelemetry 的出现极大的改观了这种局面）
 采集器Collector是导出其遥测数据的默认本地检测库。
