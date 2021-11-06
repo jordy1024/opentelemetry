@@ -49,12 +49,13 @@ For more information, see the metrics specification, which covers topics includi
 
 
 ### Logs
-A log is a timestamped text record, either structured (recommended) or unstructured, with metadata. While logs are an independent data source, they may also be attached to spans. In OpenTelemetry, any data that is not part of a distributed trace or a metric is a log. For example, events are a specific type of log. Logs are often used to determine the root cause of an issue and typically contain information about who changed what as well as the result of the change.
+A **log** is a timestamped text record, either structured (recommended) or unstructured, with metadata. While logs are an independent data source, they may also be attached to spans. In OpenTelemetry, any data that is not part of a distributed trace or a metric is a log. For example, events are a specific type of log. Logs are often used to determine the root cause of an issue and typically contain information about who changed what as well as the result of the change.
 
 For more information, see the logs specification, which covers topics including: log, defined fields, trace context fields and severity fields.
 
 ### Baggage
-In addition to trace propagation, OpenTelemetry provides a simple mechanism for propagating name/value pairs, called baggage. Baggage is intended for indexing observability events in one service with attributes provided by a prior service in the same transaction. This helps to establish a causal relationship between these events.
+
+In addition to trace propagation, OpenTelemetry provides a simple mechanism for propagating name/value pairs, called **baggage**. Baggage is intended for indexing observability events in one service with attributes provided by a prior service in the same transaction. This helps to establish a causal relationship between these events.
 
 While baggage can be used to prototype other cross-cutting concerns, this mechanism is primarily intended to convey values for the OpenTelemetry observability systems.
 
@@ -64,6 +65,7 @@ A web service can benefit from including context around what service has sent th
 A SaaS provider can include context about the API user or token that is responsible for that request
 Determining that a particular browser version is associated with a failure in an image processing service
 For more information, see the baggage specification.
+
 
 Last modified September 24, 2021: [Concepts > Data sources: copyedits (#777) (05bcaad)](https://github.com/open-telemetry/opentelemetry.io/commit/05bcaadefee119da2afd6d7e57704c5a24fc9133)
 
