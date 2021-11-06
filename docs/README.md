@@ -18,49 +18,49 @@ OpenTelemetry 提供其所有组件的实现以及参考架构。 其（设计�
 > 有关特定于语言的仪表或收集器的文档指南，请点击导航栏中的链接。
 
 
-[Concepts](https://opentelemetry.io/docs/concepts/)
+## [Concepts](https://opentelemetry.io/docs/concepts/)
 What is OpenTelemetry, what does it provide and what does it support?
 
-[Collector](https://opentelemetry.io/docs/collector/)
+## [Collector](https://opentelemetry.io/docs/collector/)
 Collector logo Vendor-agnostic way to receive, process and export telemetry data.
 
-[C++](https://opentelemetry.io/docs/cpp/)
+## [C++](https://opentelemetry.io/docs/cpp/)
 A language-specific implementation of OpenTelemetry in C++.
 
-[.NET](https://opentelemetry.io/docs/net/)
+## [.NET](https://opentelemetry.io/docs/net/)
 NET logo A language-specific implementation of OpenTelemetry in .NET.
 
-[Erlang/Elixir](https://opentelemetry.io/docs/erlang/)
+## [Erlang/Elixir](https://opentelemetry.io/docs/erlang/)
  A language-specific implementation of OpenTelemetry in Erlang/Elixir.
 
-[Go](https://opentelemetry.io/docs/go/)
+## [Go](https://opentelemetry.io/docs/go/)
  A language-specific implementation of OpenTelemetry in Go.
 
-[Java](https://opentelemetry.io/docs/java/)
+## [Java](https://opentelemetry.io/docs/java/)
  A language-specific implementation of OpenTelemetry in Java.
 
-[JavaScript](https://opentelemetry.io/docs/js/)
+## [JavaScript](https://opentelemetry.io/docs/js/)
 JS logo A language-specific implementation of OpenTelemetry in JavaScript (for Node.JS & the browser).
 
-[PHP](https://opentelemetry.io/docs/php/)
+## [PHP](https://opentelemetry.io/docs/php/)
 A language-specific implementation of OpenTelemetry in PHP.
 
-[Python](https://opentelemetry.io/docs/python/)
+## [Python](https://opentelemetry.io/docs/python/)
  A language-specific implementation of OpenTelemetry in Python.
 
-[Ruby](https://opentelemetry.io/docs/ruby/)
+## [Ruby](https://opentelemetry.io/docs/ruby/)
  A language-specific implementation of OpenTelemetry in Ruby.
 
-[Rust](https://opentelemetry.io/docs/rust/)
+## [Rust](https://opentelemetry.io/docs/rust/)
 A language-specific implementation of OpenTelemetry in Rust.
 
-[Swift](https://opentelemetry.io/docs/swift/)
+## [Swift](https://opentelemetry.io/docs/swift/)
 A language-specific implementation of OpenTelemetry in Swift.
 
-[Workshop](https://opentelemetry.io/docs/workshop/)
+## [Workshop](https://opentelemetry.io/docs/workshop/)
 Resources to aid in running an OpenTelemetry workshop
 
-[Contribution Guidelines](https://opentelemetry.io/docs/contribution-guidelines/)
+## [Contribution Guidelines](https://opentelemetry.io/docs/contribution-guidelines/)
 How to contribute to the OpenTelemetry documentation
 
 
