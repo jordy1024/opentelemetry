@@ -19,12 +19,17 @@ Language independent interface types. Defined per data source for instrumentatio
 - **Data**: Defines semantic conventions to provide vendor-agnostic implementations as well as the OpenTelemetry protocol (OTLP).
 
 ### 收集器
-The OpenTelemetry Collector offers a vendor-agnostic implementation on how to receive, process, and export telemetry data. It removes the need to run, operate, and maintain multiple agents/collectors in order to support open-source observability data formats (e.g. Jaeger, Prometheus, etc.) sending to one or more open-source or commercial back-ends. The Collector is the default location instrumentation libraries export their telemetry data.
 
-For more information, see the Data Collection section.
+OpenTelemetry Collector 在 接收、处理和导出遥测数据等方面 提供了与供应商无关的实现。 
+（在 OpenTelemetry 出现之前），为了支持将开源可观测性数据格式发送到不同的开源/商业后端，（往往）需要运行，操作和维护各种Agent或collectors。
+（而 OpenTelemetry 的出现极大的改观了这种局面）
+采集器Collector是导出其遥测数据的默认本地检测库。
+
+
+有关更多信息，请参阅[数据采集器部分](https://opentelemetry.io/docs/concepts/data-collection/) 
+
 
 ### 检测库
-The inspiration of the OpenTelemetry project is to make every library and application observable out of the box by having them call the OpenTelemetry API directly. Until that happens, there is a need for a separate library which can inject this information. A library that enables observability for another library is called an instrumentation library. The OpenTelemetry project provides an instrumentation library for multiple languages. All instrumentation libraries support manual (code modified) instrumentation and several support automatic (byte-code) instrumentation.
 
 OpenTelemetry 项目的灵感是通过让每个库和应用程序直接调用 OpenTelemetry API 以使其开箱即用。 
 在此之前（既在OpenTelemetry未出现之前），（往往）需要（引入）一个单独的库来注入此类（相关）信息。 
